@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="500px" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="400px" src="https://gifs.eco.br/wp-content/uploads/2021/09/lo-fi-aesthetic-gifs-1.gif" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Mukhamad Arrafi</h1>
 <h3 align="center">A passionate web/mobile developer from Indonesia</h3>
