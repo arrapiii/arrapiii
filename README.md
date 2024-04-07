@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mukhamad Arrafi</h1>
 <h3 align="center">A passionate web/mobile developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **-**
 
 - 📫 How to reach me **mohamadarrafi1304@gmail.com**
 
